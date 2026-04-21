@@ -10,3 +10,4 @@ Member 4: Hemashree D.B
 Email I'd: hemahemashree7022@gmail.com
 Member 5: Keerthana.R
 Email I'd:keerthanagowda1033@gmail.com
+ This project is currently under active development, with new features being added regularly.
