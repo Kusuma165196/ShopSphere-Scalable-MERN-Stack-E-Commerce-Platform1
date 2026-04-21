@@ -1,0 +1,2 @@
+# ShopSphere-Scalable-MERN-Stack-E-Commerce-Platform1
+ShopSphere is a scalable MERN stack e-commerce platform with secure JWT authentication, advanced product search and filtering, cart and checkout functionality, and Razorpay/Stripe payment integration. It also includes an admin dashboard, order management system, and performance optimizations, reflecting real-world, production-ready architecture.
